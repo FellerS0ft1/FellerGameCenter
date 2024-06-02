@@ -5,7 +5,7 @@ FellerGameCenter downloads games from “repo” folder and helps to play good g
 If you want to add your game to the repository, you need to follow these rules:
 We do not accept:
 -Malware
--Games that weigh more than 250 megabytes.
+-Games that weigh more than 128 megabytes.
 -C languages (C;C++;C#;hC)
 
 On the addition of games to write to the mailbox: fellersoft.x@mail.ru
